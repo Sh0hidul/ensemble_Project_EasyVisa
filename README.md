@@ -17,4 +17,4 @@ The increasing number of applicants every year calls for a Machine Learning base
 * Facilitate the process of visa approvals.
 * Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status. 
 
-## To see the details <a href ="">click here</a>
+## To see the details <a href ="https://github.com/Sh0hidul/ensemble_Project_EasyVisa/blob/main/Project_EasyVisa_Md%20Shohidul%20Haque.ipynb">click here</a>
